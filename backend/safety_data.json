@@ -1,0 +1,68 @@
+{
+  "safety_points": [
+    {
+      "coordinates": [
+        -80.4139,
+        37.2296
+      ],
+      "incident_count": 2,
+      "lighting": "good"
+    },
+    {
+      "coordinates": [
+        -80.4145,
+        37.2301
+      ],
+      "incident_count": 5,
+      "lighting": "poor"
+    },
+    {
+      "coordinates": [
+        -80.4210,
+        37.2315
+      ],
+      "incident_count": 1,
+      "lighting": "good"
+    },
+    {
+      "coordinates": [
+        -80.4223,
+        37.2278
+      ],
+      "incident_count": 8,
+      "lighting": "poor"
+    },
+    {
+      "coordinates": [
+        -80.4200,
+        37.2250
+      ],
+      "incident_count": 3,
+      "lighting": "moderate"
+    },
+    {
+      "coordinates": [
+        -80.4150,
+        37.2280
+      ],
+      "incident_count": 0,
+      "lighting": "good"
+    },
+    {
+      "coordinates": [
+        -80.4230,
+        37.2320
+      ],
+      "incident_count": 6,
+      "lighting": "poor"
+    },
+    {
+      "coordinates": [
+        -80.4180,
+        37.2260
+      ],
+      "incident_count": 2,
+      "lighting": "moderate"
+    }
+  ]
+}
