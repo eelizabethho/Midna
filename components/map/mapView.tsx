@@ -3,7 +3,7 @@ import { StyleSheet, View } from 'react-native';
 import Mapbox from '@rnmapbox/maps';
 
 // Replace with your PUBLIC token (starts with pk.)
-Mapbox.setAccessToken('YOUR_PUBLIC_PK_TOKEN_HERE');
+Mapbox.setAccessToken('pk.eyJ1Ijoic3VkZWVrc2hhcHIiLCJhIjoiY21sMnJpaWU0MGxsYTNsb3E2cjQxZzVuayJ9.K6ZWQurgpI-o9RxyBwwy6w');
 
 const Mapview = () => {
   return (
